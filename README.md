@@ -30,7 +30,6 @@ Goals:
     Build real-world apps that are user-friendly and accessible
     Contribute to meaningful projects and open-source
 
-Contact:
 
 Feel free to reach out!
 
