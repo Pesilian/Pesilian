@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Pesilian
-- 🌱 I’m currently learning frontend development at Folkuniversitetet i Göteborg
+- 🌱 Frontend developer with a passion for learning new things and building amazing applications!
 
