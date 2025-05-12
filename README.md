@@ -33,5 +33,6 @@ Goals:
 Contact:
 
 Feel free to reach out!
-    LinkedIn: linkedin.com/in/lina-persson-signell
+
+LinkedIn: [www.linkedin.com/in/lina-persson-signell](www.linkedin.com/in/lina-persson-signell/)
 
