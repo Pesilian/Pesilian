@@ -34,5 +34,5 @@ Contact:
 
 Feel free to reach out!
 
-LinkedIn: [www.linkedin.com/in/lina-persson-signell](www.linkedin.com/in/lina-persson-signell/)
+LinkedIn: [Click here to go to my LinkedIn-page](www.linkedin.com/in/lina-persson-signell)
 
